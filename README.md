@@ -56,9 +56,9 @@ Currently, I’m expanding my expertise into **Support Engineering & Cloud Infra
 ---
  
 ### 📬 Let’s Connect  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/bharatgupta18?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 🌐 LinkedIn : https://www.linkedin.com/in/bharatgupta18?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 - ✉️ Email : Bharatgupta4863@gmail.com 
-- 🐙 [GitHub](https://github.com/your-Bharatabd)  
+- 🐙 GitHub : https://github.com/your-Bharatabd 
  
 ---
 ⭐️ *"Quality engineering meets customer empathy—because great support means building trust."*
