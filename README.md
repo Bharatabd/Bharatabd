@@ -45,13 +45,6 @@ Currently, I’m expanding my expertise into **Support Engineering & Cloud Infra
 - Confident in **reading/writing code** & submitting PRs.  
 - Self-starter, thrives in **fast-paced remote environments**.  
  
----
- 
-### 📌 Featured Repositories  
-🔹 [**aws-troubleshooting-guide**](https://github.com/your-username/aws-troubleshooting-guide) – AWS issues & solutions  
-🔹 [**support-scripts**](https://github.com/your-username/support-scripts) – Automation scripts for troubleshooting  
-🔹 [**bug-report-demo**](https://github.com/your-username/bug-report-demo) – Clear bug reports + fixes  
-🔹 [**springboot-helpdesk**](https://github.com/your-username/springboot-helpdesk) – Mini helpdesk app (Spring Boot + MySQL)  
  
 ---
  
