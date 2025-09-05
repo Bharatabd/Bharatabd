@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anamika Nandani  
+# 👋 Hi, I'm Bharat Gupta  
  
 💡 **Support Engineer | QA Automation Engineer | DevOps Enthusiast**  
  
@@ -26,7 +26,7 @@ Currently, I’m expanding my expertise into **Support Engineering & Cloud Infra
 **Cloud Platforms:** AWS, GCP, Azure  
 **DevOps & Infra:** Docker, Kubernetes, CI/CD pipelines, Linux  
 **Monitoring & Debugging:** Grafana, Kibana, Charles Proxy, Network Throttling  
-**Collaboration & Testing:** GitHub, JIRA, Swagger, Zephyr Scale, BDD, ADB  
+**Collaboration & Testing:** GitHub, JIRA, Zephyr Scale, BDD  
  
 ---
  
